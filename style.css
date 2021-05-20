@@ -1,4 +1,4 @@
-body .container{
+body .container-fluid{
     margin: 20px;
     padding: 20px;
     border-style: none;
@@ -8,4 +8,12 @@ body .container{
 }
 .Si{
     font-size: 16px;
+}
+.imgsize{
+    width: 235px; 
+    height: 235px;
+    margin: 10px;
+}
+.num{
+    margin-top: 20px;
 }
